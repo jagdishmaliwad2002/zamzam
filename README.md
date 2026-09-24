@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme = """# ઝમઝમ & એસ.આર. મોબાઇલ — લુણાવાડા
+# ઝમઝમ & એસ.આર. મોબાઇલ — લુણાવાડા
 
 > Modern Gujarati mobile shop website created by **Jagdish Maliwad**.
 
