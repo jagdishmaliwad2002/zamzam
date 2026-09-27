@@ -1,70 +1,52 @@
-# ઝમઝમ & એસ.આર. મોબાઇલ — લુણાવાડા
+# ZAMZAM & SR મોબાઈલ – Mobile Store E-Commerce Website
 
-> Modern Gujarati mobile shop website created by **Jagdish Maliwad**.
+> **Latest README.md**  
+> **Created by: Jagdish Maliwad**  
+> **Last Updated: 2026-09-27**
 
-## 👨‍💻 Created By
+A modern, fully responsive, single-page e-commerce website for a mobile phone and accessories store.  
+Built with pure HTML, CSS, and Font Awesome. No JavaScript frameworks required.
 
-**Jagdish Maliwad**
+---
 
-- Developer: Jagdish Maliwad
-- Project: Zam Zam & S.R. Mobile
-- Location: Lunawada, Gujarat, India
+## 📱 About The Project
 
-## 📱 About The Website
+This website is designed for **ZAMZAM & SR મોબાઈલ**, a mobile store based in Gujarat, India.  
+It showcases smartphones, accessories, tablets, smartwatches, and earbuds with real product images, promotions, best sellers, and a clean user interface.
 
-આ વેબસાઇટ **ઝમઝમ & એસ.આર. મોબાઇલ, લુણાવાડા** માટે બનાવવામાં આવી છે.
+The site is lightweight, fast-loading, and optimized for all devices.
 
-વેબસાઇટનો હેતુ ગ્રાહકોને એક modern, premium અને mobile-friendly online experience આપવાનો છે, જ્યાં તેઓ મોબાઇલ, એસેસરીઝ અને રિપેરિંગ સેવાઓ વિશે સરળતાથી માહિતી મેળવી શકે.
+---
 
-## ✨ Main Features
+## ✨ Latest Features
 
-- 🇮🇳 Modern Gujarati design
-- 📱 Mobile responsive layout
-- 🛍️ Smartphone product section
-- 🎧 Mobile accessories section
-- 🔧 Mobile repairing services
-- 🔋 Battery & charger category
-- 🛡️ Mobile cover & tempered glass
-- 🎵 Earphones & speakers
-- ⌚ Smartwatch category
-- 🏷️ Popular mobile brand showcase
-- 📸 Shop photo / gallery section
-- 📞 Call-to-action buttons
-- 💬 WhatsApp contact button
-- 📍 Lunawada location section
-- ✨ Smooth animations and hover effects
-- 🔎 Gujarati SEO metadata
-- 🌐 Desktop, tablet and mobile support
+- ✅ **Gujarati Logo** – `ઝમઝમ & એસઆર મોબાઈલ`
+- ✅ **English Language** – Entire website content in English
+- ✅ **INR Pricing** – All prices displayed in Indian Rupees (₹)
+- ✅ **WhatsApp Floating Button** – Quick chat integration
+- ✅ **Brand Marquee** – Right-to-left moving mobile brand logos
+- ✅ **Real Product Images** – Optimized via Unsplash CDN (WebP/AVIF, lazy loading)
+- ✅ **Extra Products** – More items in Promotions & Best Sellers
+- ✅ **Responsive Design** – Works on mobile, tablet, and desktop
+- ✅ **Fast Loading** – Compressed images, lazy loading, minimal CSS
+- ✅ **Contact Info** – Address, phone numbers, and email in footer
+- ✅ **Promotions Section** – Discount badges and old/new prices
+- ✅ **Testimonials** – Customer reviews section
+- ✅ **Newsletter Subscription** – Email signup form
 
-## 🎨 Design
+---
 
-The website uses a modern retail design system with:
+## 🛠️ Tech Stack
 
-- Red primary branding
-- Orange, white and green accents
-- Premium cards
-- Rounded corners
-- Soft shadows
-- Responsive typography
-- Modern navigation
-- Large hero section
-- Gujarati-friendly typography
+| Technology       | Usage                          |
+|------------------|--------------------------------|
+| HTML5            | Structure                      |
+| CSS3             | Styling, animations, responsive|
+| Font Awesome 6   | Icons                          |
+| Google Fonts     | Inter font family              |
+| Unsplash CDN     | Optimized product images       |
+| WhatsApp API     | Floating chat button           |
 
-## 🛠️ Technology
-
-This project is built using:
-
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
-- Google Fonts / Gujarati-compatible typography
+---
 
 ## 📂 Project Structure
-
-```text
-zamzam-sr-mobile/
-│
-├── index.html
-├── shop-front.png
-└── README.md
